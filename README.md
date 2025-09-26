@@ -14,7 +14,7 @@ Welcome to the official digital archive of student work at Pacific States Univer
 **Get involved**
 - Browse the repositories pinned above
 - Submit a contribution via Pull Request (see `CONTRIBUTING.md`)
-- For publication inquiries or permissions: admissions@psuca.edu
+- For publication inquiries or permissions: psustudentspublications@psuca.edu
 
 ---
 
@@ -33,8 +33,8 @@ Welcome to the official digital archive of student work at Pacific States Univer
 
 ### Contact
 Pacific States University — Admissions & Publications  
-Email: admissions@psuca.edu  
-Website: https://psuca.barrzen.com (or your PSU site)
+Email: psustudentspublications@psuca.edu  
+Website: https://psuca.edu(or your PSU site)
 
 ---
 
